@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/RomaAbarov/server_shop
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/RomaAbarov/frontend_shop
