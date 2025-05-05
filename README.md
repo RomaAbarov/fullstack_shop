@@ -5,4 +5,6 @@
    git clone https://github.com/RomaAbarov/fullstack_shop.git
    cd fullstack_shop
 
-2. git submodule update --init
+
+2. ```bash
+   git submodule update --init
